@@ -1,0 +1,59 @@
+﻿@model POS.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.product_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.product_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.product_price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.product_price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_remaining)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_remaining)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_flag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_flag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_max)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_max)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

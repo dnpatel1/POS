@@ -1,0 +1,54 @@
+﻿@model IEnumerable<POS.Models.Transaction>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Transaction(s)</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount_Total)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Method_Of_Payment)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount_Total)
+        </td>
+        <td>
+            @if(item.Method_Of_Payment==1)
+            {
+                <sapn>Credit</sapn>
+            }
+            else if(item.Method_Of_Payment==2)
+            {
+                <span>Debit</span>
+            }
+            else
+            {
+                <span>Cash</span>
+            }
+
+           
+        </td>
+        <td>
+            @Html.ActionLink("Details", "Index", "TransProds", new { id = item.Id }, null)
+        </td>
+    </tr>
+}
+
+</table>

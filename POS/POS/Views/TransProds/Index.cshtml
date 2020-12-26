@@ -1,0 +1,56 @@
+﻿@model IEnumerable<POS.Models.TransProd>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    double price = 0;
+}
+
+@foreach (var item in Model)
+{
+
+    <h2>Details for Transaction No. @item.TransactionId</h2>
+    break;
+
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.product_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.product_price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductQuantity)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        price += item.ProductQuantity * item.Product.product_price;
+    <tr>
+        <td>@Html.DisplayFor(modelItem => item.Product.product_name)</td>
+        <td>@Html.DisplayFor(modelItem => item.Product.product_price)</td>
+        <td>@Html.DisplayFor(modelItem => item.ProductQuantity)</td>
+        
+    </tr>
+
+    }
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+
+        <th class="text-uppercase text-danger" >
+            Final Amount:
+        </th>
+        <th> @price</th>
+    </tr>
+    
+</table>

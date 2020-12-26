@@ -1,0 +1,126 @@
+﻿@model ICollection<POS.Models.Transaction>
+@{
+    ViewBag.Title = "Payments Charts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row dashboard">
+
+    <div class="col-lg-4">
+        <div class="side-nav">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item text-center">@Html.ActionLink("Transactions", "Index", "Admin")</li>
+                <li class="list-group-item text-center active">@Html.ActionLink("Payments", "Payments", "Admin")</li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-lg-8 chart-container">
+
+        <div>
+
+            <canvas id="trans-chart"></canvas>
+
+        </div>
+        <hr />
+        <div class="chart-type-container">
+            <strong>Chart type: -</strong>
+            <br />
+            <br />
+            <select class="form-control pull-left" id="chart-type">
+                <option value="pie" selected>Pie Chart</option>
+            </select>
+            <button class="btn btn-success" id="change-chart-type" onclick="changeChart()">Change</button>
+        </div>
+    </div>
+
+</div>
+
+<script>
+
+
+    window.onload = function () {
+
+        changeChart();
+
+    }
+
+    function changeChart() {
+
+        var transPayment1 = 0;
+        var transPayment2 = 0;
+        var transPayment3 = 0;
+        var transPayment4 = 0;
+
+        //Get all the data from the Model object
+        @foreach (var transcation in Model) {
+
+            if (@transcation.Method_Of_Payment == 1) {
+
+                @:transPayment1++;
+
+            }
+
+            if (@transcation.Method_Of_Payment == 2) {
+
+                @:transPayment2++;
+
+            }
+
+            if (@transcation.Method_Of_Payment == 3) {
+
+                @:transPayment3++;
+
+            }
+
+            if (@transcation.Method_Of_Payment == 4) {
+
+                @:transPayment4++;
+
+            }
+
+        }
+
+        var chart_type = document.getElementById('chart-type');
+        var change_btn = document.getElementById('change-chart-type');
+
+        var ctx = document.getElementById('trans-chart').getContext('2d');
+
+        var chart = new Chart(ctx, {
+
+            // The type of chart we want to create
+            type: chart_type.options[chart_type.selectedIndex].value,
+
+            // The data for our dataset
+            data: {
+                labels: ["Credit" ,"Debit", "Cash", "Others"],
+                datasets: [{
+                    label: "Payment Trends",
+                    backgroundColor: '#E3E3E3',
+                    borderColor: '#212121',
+                    data: [transPayment1, transPayment2, transPayment3, transPayment4],
+                    backgroundColor: [
+
+                        "#009688",
+                        "#8BC34A",
+                        "#FF5722",
+                        "#3F51B5"
+
+                    ]
+                }],
+                
+            },
+
+            // Configuration options go here
+            options: {}
+
+        });
+
+
+    }
+
+
+</script>
+
+
+

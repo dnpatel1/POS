@@ -1,0 +1,94 @@
+﻿@model ICollection<POS.Models.Transaction>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row dashboard">
+
+    <div class="col-lg-4">
+        <div class="side-nav">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item text-center active">@Html.ActionLink("Transactions", "Index", "Admin")</li>
+                <li class="list-group-item text-center">@Html.ActionLink("Payments", "Payments", "Admin")</li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-lg-8 chart-container">
+
+        <div>
+
+            <canvas id="trans-chart"></canvas>
+
+        </div>
+        <hr />
+        <div class="chart-type-container">
+            <strong>Chart type: -</strong>
+            <br />
+            <br />
+            <select class="form-control pull-left" id="chart-type">
+                <option value="line" selected>Line Chart</option>
+                <option value="bar">Bar Graph</option>
+            </select>
+            <button class="btn btn-success" id="change-chart-type" onclick="changeChart()">Change</button>
+        </div>
+    </div>
+
+</div>
+
+<script>
+   
+
+    window.onload = function () {
+
+        changeChart();
+
+    }
+
+    function changeChart() {
+
+        var transDate = [];
+        var transAmount = [];
+
+        //Get all the data from the Model object
+        @foreach (var transcation in Model) {
+        
+            @:transDate.push("@transcation.Date.Date");
+            @:transAmount.push("@transcation.Amount_Total");
+
+        }
+
+        var chart_type = document.getElementById('chart-type');
+        var change_btn = document.getElementById('change-chart-type');
+
+        var ctx = document.getElementById('trans-chart').getContext('2d');
+
+        var chart = new Chart(ctx, {
+
+            // The type of chart we want to create
+            type: chart_type.options[chart_type.selectedIndex].value,
+
+            // The data for our dataset
+            data: {
+                labels: transDate,
+                datasets: [{
+                    label: "Transaction Trends",
+                    backgroundColor: '#E3E3E3',
+                    borderColor: '#212121',
+                    data: transAmount,
+                }]
+            },
+
+            // Configuration options go here
+            options: {}
+        });
+
+
+    }
+    
+
+</script>
+
+
+

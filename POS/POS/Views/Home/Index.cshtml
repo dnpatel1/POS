@@ -1,0 +1,20 @@
+﻿<div class="row">
+    <!--Please make necessary changes to the controller name and the Action methods in the ActionLinks below-->
+    
+    <div class="home-container col-lg-12 text-center media-middle ">
+        @Html.ActionLink(
+       /*Link String*/"Login",
+       /*Action Method*/"Login", 
+       /*Controller Name*/ "Users",
+       /*Route Values or Parameters*/ null,
+       /*HTML attributes*/new { @class = "h2" })
+
+        <h4 class="text-muted">OR</h4>
+        @Html.ActionLink(/*Link String*/"Register",
+       /*Action Method*/"Register", 
+       /*Controller Name*/ "Users", 
+       /*Route Values or Parameters*/ null,
+       /*HTML attributes*/new { @class = "h2" })
+    </div>
+
+</div>

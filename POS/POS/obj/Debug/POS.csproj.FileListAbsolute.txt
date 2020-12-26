@@ -1,0 +1,312 @@
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\ApplicationInsights.config
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\POS.dll.config
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\POS.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\POS.pdb
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\csc.exe
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\csc.exe.config
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\csc.rsp
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\csi.exe
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\csi.exe.config
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\csi.rsp
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.AppContext.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Console.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.IO.Compression.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.IO.Pipes.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.AccessControl.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.Claims.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.ValueTuple.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Xml.XPath.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\vbc.exe
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\vbc.exe.config
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\vbc.rsp
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\VBCSCompiler.exe
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Antlr3.Runtime.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\EntityFramework.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\EntityFramework.SqlServer.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.DependencyCollector.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.Web.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.WindowsServer.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.ApplicationInsights.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Newtonsoft.Json.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Helpers.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Mvc.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Optimization.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Razor.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.WebPages.Deployment.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.WebPages.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.WebPages.Razor.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\WebGrease.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\EntityFramework.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\EntityFramework.SqlServer.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Helpers.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Mvc.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Optimization.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.Razor.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.WebPages.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.WebPages.Deployment.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Web.WebPages.Razor.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Newtonsoft.Json.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Antlr3.Runtime.pdb
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.DependencyCollector.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.WindowsServer.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.AI.Web.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.csproj.CopyComplete
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.dll
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.pdb
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedUserModel.resources
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedProductModelWithoutFKToTransProd.resources
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedTransactionModelWithoutFKToTransProd.resources
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedTransProdWithFKToProductsModel.resources
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedFKToTransactionModelFromTransProd.resources
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedAttributeProductQuantityToTransProd.resources
+D:\Humber Assignments and Journals\ASP\ASP Project\POSv2\POS\POS\obj\Debug\POS.Migrations.AddedDateToTransactionModel.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\ApplicationInsights.config
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\POS.dll.config
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\POS.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\POS.pdb
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\csc.exe
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\csc.exe.config
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\csc.rsp
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\csi.exe
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\csi.exe.config
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\csi.rsp
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.AppContext.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Console.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.IO.Compression.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.IO.Pipes.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.AccessControl.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.Claims.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.ValueTuple.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Xml.XPath.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\vbc.exe
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\vbc.exe.config
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\vbc.rsp
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\VBCSCompiler.exe
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Antlr3.Runtime.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\EntityFramework.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\EntityFramework.SqlServer.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.DependencyCollector.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.Web.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.WindowsServer.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.ApplicationInsights.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Newtonsoft.Json.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Helpers.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Mvc.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Optimization.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Razor.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.WebPages.Deployment.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.WebPages.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.WebPages.Razor.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\WebGrease.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\EntityFramework.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\EntityFramework.SqlServer.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Helpers.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Mvc.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Optimization.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.Razor.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.WebPages.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.WebPages.Deployment.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Web.WebPages.Razor.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Newtonsoft.Json.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Antlr3.Runtime.pdb
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.DependencyCollector.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.WindowsServer.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.AI.Web.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedUserModel.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedProductModelWithoutFKToTransProd.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedTransactionModelWithoutFKToTransProd.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedTransProdWithFKToProductsModel.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedFKToTransactionModelFromTransProd.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedAttributeProductQuantityToTransProd.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedDateToTransactionModel.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.cartadded.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.Migrations.cartadded1.resources
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.csproj.CopyComplete
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.dll
+Y:\Y drv\Chrome Downloads\POSv4\POS\POS\obj\Debug\POS.pdb
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\ApplicationInsights.config
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\POS.dll.config
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\POS.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\POS.pdb
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\csc.exe
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\csc.exe.config
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\csc.rsp
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\csi.exe
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\csi.exe.config
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\csi.rsp
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.AppContext.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Console.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\vbc.exe
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\vbc.exe.config
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\vbc.rsp
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Antlr3.Runtime.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\EntityFramework.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\EntityFramework.SqlServer.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.Web.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Newtonsoft.Json.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Helpers.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Mvc.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Optimization.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Razor.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.WebPages.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\WebGrease.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\EntityFramework.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\EntityFramework.SqlServer.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Helpers.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Mvc.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Optimization.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.Razor.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.WebPages.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Newtonsoft.Json.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Antlr3.Runtime.pdb
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.AI.Web.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedUserModel.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedProductModelWithoutFKToTransProd.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedTransactionModelWithoutFKToTransProd.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedTransProdWithFKToProductsModel.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedFKToTransactionModelFromTransProd.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedAttributeProductQuantityToTransProd.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.AddedDateToTransactionModel.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.cartadded.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.Migrations.cartadded1.resources
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.dll
+C:\Users\Deep Patel\Desktop\POS_Final\POSv4\POS\POS\obj\Debug\POS.pdb

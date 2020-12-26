@@ -1,0 +1,35 @@
+﻿.container .dashboard {
+
+    padding: 10px;
+
+}
+
+.side-nav a {
+
+    text-decoration: none;
+
+}
+
+.chart-container {
+    background: #FAFAFA;
+    border: 2px solid #212121;
+}
+
+    .chart-container div {
+    
+        padding: 10px;
+
+    }
+
+    .chart-container .chart-type-container select{
+    
+        margin-right: 10px;
+
+    }
+
+.side-nav .active a{
+
+    color: #FFFFFF;
+
+}
+

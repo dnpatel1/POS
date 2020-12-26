@@ -1,0 +1,65 @@
+﻿@model POS.Models.Product
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.product_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.product_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.product_price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.product_price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_remaining)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_remaining)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_flag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_flag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_max)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_max)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Cart1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p class="h2">Cart</p>
+
+
+<table class="table">
+    <tr>
+        <th>
+            <label class="control-label text-uppercase text-primary" for="Name">Name</label>
+        </th>
+        <th>
+            <label class="control-label text-uppercase text-primary" for="Price">Price</label>
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Cart.Products)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_price)
+            </td>
+
+            <td>
+
+                @Html.ActionLink("Remove", "RemoveProduct", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+@if (Cart.Products.Count >= 1)
+{
+<h4 class="lead" style="text-align:center;"> @Html.ActionLink("Checkout", "CheckOut")</h4>
+}
